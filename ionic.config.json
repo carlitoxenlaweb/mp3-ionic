@@ -1,5 +1,7 @@
 {
   "name": "mp3-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
